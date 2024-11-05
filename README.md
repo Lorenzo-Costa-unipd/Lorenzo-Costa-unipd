@@ -11,11 +11,11 @@ printf("%-1.0lf\t %1.3lf\n",pi,pi);
 printf("%-1.0lf\t%1.4lf\n\n",pi,pi);
 
 
-printf("     %1.0lf\t%1.0lf\n",pi pi);
-printf("    %1.0lf\t%1.0lf\n",pi pi);
-printf("   %1.0lf\t%1.0lf\n",pi pi);
-printf("  %1.0lf\t%1.0lf\n",pi pi);
-printf(" %1.0lf\t%1.0lf\n",pi pi);
+printf("     %1.0lf\t%1.0lf\n",pi,pi);
+printf("    %1.0lf\t%1.0lf\n",pi,pi);
+printf("   %1.0lf\t%1.0lf\n",pi,pi);
+printf("  %1.0lf\t%1.0lf\n",pi,pi);
+printf(" %1.0lf\t%1.0lf\n",pi,pi);
 
 return 0;
 }
